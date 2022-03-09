@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Rajdhani&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+header{
+    background-color: greenyellow;
+    display: flex;
+
+}
+
+.cabecalho{
+    justify-content: center;
+    align-items: center;
+    display: inline;
+}
+
+ul{
+    list-style: none;
+}
