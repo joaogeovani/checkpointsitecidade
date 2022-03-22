@@ -8,15 +8,28 @@
 }
 
 header{
-    background-color: greenyellow;
+    background-color: rgb(25, 153, 238);
     display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.7);
+}
 
+.cidadenome {
+    margin-top: 55px;
+}
+
+.logo {
+    display: flex;
 }
 
 .cabecalho{
     justify-content: center;
     align-items: center;
     display: inline;
+}
+
+.cabecalho ul {
+    display: flex;
 }
 
 ul{
